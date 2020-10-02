@@ -7,5 +7,6 @@ This repository aims at helping beginners who are into open source contribution.
 
 * [Akhil T J](https://itexpert2572000.github.io/)
 * [Saral Karki](https://youthful-saha-49d35a.netlify.app/)
-* [Suvarnesh K M](https://suvarneshkm.github.io/)
 * [Sushan Shakya](https://portfolio-ab13a.firebaseapp.com/#/)
+* [Suvarnesh K M](https://suvarneshkm.github.io/)
+
