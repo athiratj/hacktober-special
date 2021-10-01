@@ -5,7 +5,4 @@ This repository aims at helping beginners who are into open source contribution.
 
 ## Portfolios 
 
-* [Aakarsh B](https://aakarsh-b.github.io/)
-* [Akhil T J](https://itexpert2572000.github.io/)
-* [Saral Karki](https://youthful-saha-49d35a.netlify.app/)
-* [Suvarnesh K M](https://suvarneshkm.github.io/)
+* [Athira T J](https://www.athiratj.com/)
