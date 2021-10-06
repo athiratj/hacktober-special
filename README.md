@@ -5,7 +5,10 @@ This repository aims at helping beginners who are into open source contribution.
 
 ## Portfolios 
 
+* [Allen Thomas](https://coding-sorcerer-1.github.io/portfolio/)
+ 
 * [Athira T J](https://www.athiratj.com/)
+
 * [Muhammed Midhilaj U](https://midlaj13.github.io/)
 
 * [Jerin Paul](https://mrwolfie13.github.io/sample_port/)
