@@ -10,8 +10,7 @@ This repository aims at helping beginners who are into open source contribution.
 * [Athira T J](https://www.athiratj.com/)
 
 * [Muhammed Midhilaj U](https://midlaj13.github.io/)
-
 * [Jerin Paul](https://mrwolfie13.github.io/sample_port/)
-
 * [vishnudas v](http://gitcub.co/?i=1)
+* [Akhil T J](https://www.akhiltj.com/)
 
